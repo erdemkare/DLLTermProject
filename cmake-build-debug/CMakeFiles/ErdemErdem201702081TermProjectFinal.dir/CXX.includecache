@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/erdem/CLionProjects/ErdemErdem20170702081TermProjectFinal/calculator.h
+iostream
+-
+list
+-
+string
+-
+fstream
+-
+
+C:/Users/erdem/CLionProjects/ErdemErdem20170702081TermProjectFinal/main.cpp
+iostream
+-
+list
+-
+string
+-
+calculator.h
+C:/Users/erdem/CLionProjects/ErdemErdem20170702081TermProjectFinal/calculator.h
+vector
+-
+vector
+-
+
